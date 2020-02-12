@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.landing {
+    position: relative;
+    background: url('/assets/img/showcase.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin-top: -24px;
+    margin-bottom: -50px;
+  }
